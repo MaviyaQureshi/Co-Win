@@ -1,0 +1,107 @@
+.part1 {
+    background-size: 100% 100%;
+    background-image: url(https://www.cowin.gov.in/precaution_banner_bg_web.c656a76b28237d8fb924.png);
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    margin-left: -8px;
+    width: 660px;
+}
+
+.part1-section {
+    margin-left: 90px;
+}
+
+.crore {
+    width: 610px;
+    font-family: 'Roboto', Arial;
+    font-weight: bold;
+    margin-top: 70px;
+    font-size: 36px;
+    line-height: 60px;
+    margin-bottom: 30px;
+    margin-right: 0;
+}
+
+.img-button {
+    width: 610px;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 4px;
+    border-color: orangered;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0);
+    height: 95px;
+    font-family: 'Roboto', Arial;
+    font-weight: bold;
+    display: flex;
+    margin-right: 0;
+}
+
+.vaccinations {
+    height: 40px;
+    margin-top: 17px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: left;
+    margin-bottom: 10px;
+}
+
+.span1 {
+    font-size: 40px;
+    margin-left: 10px;
+    margin-right: 15px;
+    color: orangered;
+}
+
+.quote {
+    font-family: 'Roboto-Bold.tff', Arial;
+    margin-top: 46px;
+    font-size: 26px;
+    width: 650px;
+    line-height: 32px;
+    font-weight: 500;
+    margin-right: 0;
+}
+
+.pm {
+    font-family: 'Roboto', Arial;
+    margin-top: 17px;
+    font-size: 24px;
+    margin-left: px;
+    margin-right: 0;
+}
+
+.india-map {
+    display: flex;
+    margin-left: 150px;
+    height: 548px;
+    margin-top: 33px;
+}
+
+.strap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95px;
+    background-color: rgb(1, 126, 126);
+    margin-top: 10px;
+    margin-left: -8px;
+    margin-right: -10px;
+}
+
+.more {
+    background-color: rgb(255, 188, 5);
+    color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: white;
+    height: 45px;
+    width: 150px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}

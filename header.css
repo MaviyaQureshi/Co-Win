@@ -1,0 +1,190 @@
+.head1 {
+    background-color: rgb(1, 100, 100);
+    display: flex;
+    justify-content: space-between;
+    margin-top: -8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+    margin-left: -8px;
+    margin-right: -10px;
+    margin-bottom: 0;
+    height: 35px;
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.link:hover {
+    cursor: pointer;
+}
+
+.hyper-link {
+    text-decoration: none;
+}
+
+.hyper-link:visited {
+    text-decoration: none;
+}
+
+.image {
+    height: 40px;
+    display: flex;
+    margin-left: 30px;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    width: 150px;
+    margin-left: 10px;
+    color: white;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+.drop-down {
+    color: white;
+    font-size: 14px;
+    margin-right: 50px;
+    font-family: Arial;
+}
+
+.head2 {
+    background-color: rgb(1, 126, 126);
+    display: flex;
+    justify-content: space-between;
+    margin-left: -8px;
+    margin-right: -10px;
+    height: 80px;
+    align-items: center;
+    position: relative;
+}
+
+.logo {
+    margin-left: 40px;
+    height: 45px;
+}
+
+.register {
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 25px;
+    height: 40px;
+    width: 170px;
+    background-color: rgb(1, 126, 126);
+    border-color: white;
+    margin-right: 35px;
+    font-size: 12px;
+    margin-right: none;
+}
+
+.register:hover {
+    color: rgb(230, 183, 31);
+    border-color: rgb(230, 183, 31);
+}
+
+.register:active {
+    color: white;
+    border-color: white;
+}
+
+.buttons {
+    display: flex;
+}
+
+.health-id {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(1, 126, 126);
+    border: none;
+    margin-left: 300px;
+    width: 200px;
+    font-size: 14px;
+}
+
+.health-id:hover {
+    color: rgb(230, 183, 31);
+}
+
+.health-id:active {
+    color: white;
+}
+
+.dashboard {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(1, 126, 126);
+    border: none;
+    margin-left: -5px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.dashboard:hover {
+    color: rgb(230, 183, 31);
+}
+
+.dashboard:active {
+    color: white;
+}
+
+.certificate {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(1, 126, 126);
+    border: none;
+    width: 180px;
+    margin-left: 14px;
+    margin-right: 20px;
+    font-size: 14px;
+}
+
+.certificate:hover {
+    color: rgb(230, 183, 31);
+}
+
+.certificate:active {
+    color: white;
+}
+
+.faq {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(1, 126, 126);
+    border: none;
+    margin-right: 40px;
+    font-size: 14px;
+}
+
+.faq:hover {
+    color: rgb(230, 183, 31);
+}
+
+.faq:active {
+    color: white;
+}
+
+.partners {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(1, 126, 126);
+    border: none;
+    margin-right: 40px;
+    font-size: 14px;
+}
+
+.partners:hover {
+    color: rgb(230, 183, 31);
+}
+
+.partners:active {
+    color: white;
+}
